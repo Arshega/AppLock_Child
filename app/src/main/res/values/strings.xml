@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="firebase_email">arriesga@yahoo.com</string>
+    <string name="firebase_password">123456</string>
+    <string name="title_activity_parent_layout">parent_layout</string>
+</resources>

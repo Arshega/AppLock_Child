@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "174325436202",
+    "firebase_url": "https://appblock-f465e.firebaseio.com",
+    "project_id": "appblock-f465e",
+    "storage_bucket": "appblock-f465e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174325436202:android:8f1796f08ca2e9c7",
+        "android_client_info": {
+          "package_name": "aldwin.tablante.com.appblock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174325436202-d17224m31tsgei6hk358l8v3p4ok1udh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aldwin.tablante.com.appblock",
+            "certificate_hash": "b8cf2b04dda935404d0896f1ed84c314e95294e2"
+          }
+        },
+        {
+          "client_id": "174325436202-i7ju62c0tmuj5hfuprud7p4hoacveit6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4uaC4QlRRcDwSGg12AFbVIRpZCzkaZv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174325436202-i7ju62c0tmuj5hfuprud7p4hoacveit6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
